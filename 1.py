@@ -1,1 +1,3 @@
-print('anxiaochen')
+import time
+print(time.ctime())
+
